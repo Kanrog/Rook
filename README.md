@@ -1,3 +1,5 @@
+<p><img alt="" src="https://github.com/Kanrog/Rook/blob/main/Photos/rook.jpg?raw=true" /></p>
+
 <p>My Documentation for the <a href="https://github.com/rolohaun/Rook">Rook 3D Printer by Rolohaun</a><br />
 <br />
 This is a place where you can find all the mods and config files i use on my Rook<br />
