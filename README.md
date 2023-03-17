@@ -2,7 +2,7 @@
 
 <p>My Documentation for the <a href="https://github.com/rolohaun/Rook">Rook 3D Printer by Rolohaun</a><br />
 <br />
-This is a place where you can find all the mods and config files i use on my Rook<br />
+This is a place where you can find all the mods(coming) and config files i use on my Rook<br />
 <br />
 <em>All the files posted are my personal setup files for my spesific Rook setup and may not work on your printer.<br />
 Please only use my files as a reference.</em></p>
