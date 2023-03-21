@@ -7,6 +7,9 @@ This is a place where you can find all the mods(coming) and config files i use o
 <em>All the files posted are my personal setup files for my spesific Rook setup and may not work on your printer.<br />
 Please only use my files as a reference.</em></p>
 
+I've uploaded my SuperSlicer profiles for you to use, these are by no means perfect, but its a good base. 
+To use them, open SuperSlicer, press "help" at the top, then "Show Configuration Folder" and place the folders in there.
+
 <p style="margin-left:40px"><strong>My Setup:</strong><br />
 Mainboard: SKR Mini E3 V2<br />
 Pi: OrangePi Zero LTS w/usb breakout<br />
