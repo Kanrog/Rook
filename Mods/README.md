@@ -10,7 +10,7 @@
 
 <p>Hide your messy cables<br />
 
-<p><img alt="" src="https://github.com/Kanrog/Rook/blob/main/Mods/Images/Barracks%20and%20Shield.jpg?raw=true" /></p>
+<p><img alt="" src="https://github.com/Kanrog/Rook/blob/main/Mods/Images/Barracks%20and%20Shield.jpg?raw=true" style="height: 400px;" /></p>
 
 <p>Designed the Barracks, a box for the Rook with modular tool-less drawers in the back to make it easier to modify to your components. Each drawer fits a full Pi if needed. I only included a blank drawer, if you need one customized, contact me and i can help you.
 
