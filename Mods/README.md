@@ -35,7 +35,7 @@ Uses m3 threaded inserts and M5 screws for the feet (original mounting holes for
 
 <p>Sidepanels for your Rook!<br />
 
-<p><img alt="" src="https://github.com/Kanrog/Rook/blob/main/Mods/Images/Barracks%20and%20Shield.jpg?raw=true" style="width: 300px; height: 400px;" /></p>
+<p><img alt="" src="https://github.com/Kanrog/Rook/blob/main/Mods/Images/Barracks%20and%20Shield.jpg?raw=true" style="height: 400px;" /></p>
 
 <p>Finish off your Rook in style with the Shield, side and backpanels to secure your Rook for the ultimate frame stiffness.
 
@@ -57,7 +57,7 @@ Added STEP files if you want to customize the panels to fit your taste.
 
 <p>Hang your stuff!<br />
 
-<p><img alt="" src="https://github.com/Kanrog/Rook/blob/main/Mods/Images/SKR%20Mini%20E3.JPG?raw=true" style="width: 300px; height: 400px;" /></p>
+<p><img alt="" src="https://github.com/Kanrog/Rook/blob/main/Mods/Images/SKR%20Mini%20E3.JPG?raw=true" style="height: 400px;" /></p>
 
 <p>Adapter for your SKR Mini E3 for the Rook MK1. Fits all versions of the Mini. Both for threaded inserts and straight into plastic.
 
@@ -69,7 +69,7 @@ Added STEP files if you want to customize the panels to fit your taste.
 
 <p>Hang your stuff!<br />
 
-<p><img alt="" src="https://github.com/Kanrog/Rook/blob/main/Mods/Images/SKR%20Pico%20&amp;%20Pi%20Zero.jpg?raw=true" style="width: 300px; height: 400px;" /></p>
+<p><img alt="" src="https://github.com/Kanrog/Rook/blob/main/Mods/Images/SKR%20Pico%20&amp;%20Pi%20Zero.jpg?raw=true" style="height: 400px;" /></p>
 
 <p>Mount your SKR Pico & Pi Zero to your frame the proper way.
 
