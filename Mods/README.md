@@ -21,7 +21,7 @@ The Rook logo on the front has built in supports, no supports needed on any part
 
 2 versions, one with holes if you want to fit a screen-box in the front, and one without. The one without still has markings on the inside for you to drill out the holes if you decide to fit a screen later on. 
 
-Idesigned the holes to fit this <a href="https://www.thingiverse.com/thing:3921391">12864 mount by xbost</a><br /> but you can customize any screen to fit.
+Idesigned the holes to fit this <a href="https://www.thingiverse.com/thing:3921391">12864 mount by xbost</a> but you can customize any screen to fit.
 
 I included an adapter for a SKR mini because it seems like that is a common board for the Rook, but any adapter for the original base should fit as it uses the same mount-holes.
 
