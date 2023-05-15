@@ -78,3 +78,24 @@ Made one version for heat-inserts, and one that just screws into the plastic.
 Thanks to conscriptedtraveler on the discord for the picture and testing!
 
 </p>
+
+<p>&nbsp;</p>
+
+<h2><a href="https://www.printables.com/model/388341-rook-mk1-bottom-cover">SKR Pico & Pi Zero Adapter</a><br /></h2>
+
+<p>Cover up your private parts!<br />
+
+<p><img alt="" src="https://github.com/Kanrog/Rook/blob/main/Mods/Images/Bottom%20Cover.JPG?raw=true" style="height: 400px;" /></p>
+
+<p>A cover to clean up your bottom frame and prevent things from falling into your electronics.
+scale the Z-axis in your slicer to set your desired height.
+
+2 versions, one for the center endstop and one for my E3-endstop mod.
+
+Theres a slit in the hole for the belts to make it easy to install.
+
+EDIT!
+Added DXF files if you want to make these with a laser.
+
+</p>
+
