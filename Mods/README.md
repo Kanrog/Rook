@@ -50,3 +50,15 @@ Everything has been oriented for printing, no supports required, i recommend usi
 Added STEP files if you want to customize the panels to fit your taste.
 
 </p>
+
+<p>&nbsp;</p>
+
+<h2><a href="https://www.printables.com/model/388383-rook-mk1-skr-mini-e3-adapter">SKR Mini E3 Adapter</a><br /></h2>
+
+<p>Hang your stuff!<br />
+
+<p><img alt="" src="https://github.com/Kanrog/Rook/blob/main/Mods/Images/SKR%20Mini%20E3.JPG?raw=true" /></p>
+
+<p>Adapter for your SKR Mini E3 for the Rook MK1. Fits all versions of the Mini. Both for threaded inserts and straight into plastic.
+
+</p>
