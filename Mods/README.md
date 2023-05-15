@@ -69,7 +69,7 @@ Added STEP files if you want to customize the panels to fit your taste.
 
 <p>Hang your stuff!<br />
 
-<p><img alt="" src="https://github.com/Kanrog/Rook/blob/main/Mods/Images/SKR%20Pico%20&%20Pi%20Zero.jpg?raw=true style=height: 400px;" /></p>
+<p><img alt="" src="https://github.com/Kanrog/Rook/blob/main/Mods/Images/SKR%20Pico%20&amp;%20Pi%20Zero.jpg?raw=true" style="width: 300px; height: 400px;" /></p>
 
 <p>Mount your SKR Pico & Pi Zero to your frame the proper way.
 
