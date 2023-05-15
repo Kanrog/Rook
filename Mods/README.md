@@ -81,7 +81,7 @@ Thanks to conscriptedtraveler on the discord for the picture and testing!
 
 <p>&nbsp;</p>
 
-<h2><a href="https://www.printables.com/model/388341-rook-mk1-bottom-cover">SKR Pico & Pi Zero Adapter</a><br /></h2>
+<h2><a href="https://www.printables.com/model/388341-rook-mk1-bottom-cover">Bottom Cover</a><br /></h2>
 
 <p>Cover up your private parts!<br />
 
@@ -99,3 +99,15 @@ Added DXF files if you want to make these with a laser.
 
 </p>
 
+<p>&nbsp;</p>
+
+<h2><a href="https://www.printables.com/model/384184-rook-mk1-m4p-adapter">M4P Adapter</a><br /></h2>
+
+<p>Fit your BTT Manta M4P on your Rook<br />
+
+<p><img alt="" src="https://github.com/Kanrog/Rook/blob/main/Mods/Images/M4P%20adapter.JPG?raw=true" style="height: 400px;" /></p>
+
+<p>Fit your BTT Manta M4P on your Rook
+Maybe use a little supports
+
+</p>
