@@ -28,3 +28,25 @@ I included an adapter for a SKR mini because it seems like that is a common boar
 Uses m3 threaded inserts and M5 screws for the feet (original mounting holes for the feet)
 
 </p>
+
+<p>&nbsp;</p>
+
+<h2><a href="https://www.printables.com/model/399496-barracks-bottom-box-for-thehttps://www.printables.com/model/413372-rook-shield-mk1-rook-mk1">Shield</a><br /></h2>
+
+<p>Sidepanels for your Rook!<br />
+
+<p><img alt="" src="https://github.com/Kanrog/Rook/blob/main/Mods/Images/Barracks%20and%20Shield.jpg?raw=true" /></p>
+
+<p>Finish off your Rook in style with the Shield, side and backpanels to secure your Rook for the ultimate frame stiffness.
+
+Fully compatible with most of my mods, has the mounting holes for a 120mm part-cooling fan and an included fanduct. Right panel has holes for my <a href="https://www.printables.com/model/349249-rook-mk1-legacy-side-mounted-spool-and-extruder">Spool-hanger V4</a>. this panel can be mirrored in your slicer if you want it on the other side.
+
+The right panel (with the spool-hanger) has a mounting-space for a <a href="https://www.aliexpress.com/item/1005004000137001.html">tiny camera</a> if you want to keep an eye on your prints.
+
+Rear panel has simple mounts for zip-ties to hold your wires.
+
+Everything has been oriented for printing, no supports required, i recommend using a brim and having a really good first layer.
+
+Added STEP files if you want to customize the panels to fit your taste.
+
+</p>
