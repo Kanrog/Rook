@@ -62,3 +62,19 @@ Added STEP files if you want to customize the panels to fit your taste.
 <p>Adapter for your SKR Mini E3 for the Rook MK1. Fits all versions of the Mini. Both for threaded inserts and straight into plastic.
 
 </p>
+
+<p>&nbsp;</p>
+
+<h2><a href="https://www.printables.com/model/388353-rook-mk1-skr-pico-pi-zero-adapter">SKR Pico & Pi Zero Adapter</a><br /></h2>
+
+<p>Hang your stuff!<br />
+
+<p><img alt="" src="https://github.com/Kanrog/Rook/blob/main/Mods/Images/SKR%20Pico%20&%20Pi%20Zero.jpg?raw=true" /></p>
+
+<p>Mount your SKR Pico & Pi Zero to your frame the proper way.
+
+Made one version for heat-inserts, and one that just screws into the plastic.
+
+Thanks to conscriptedtraveler on the discord for the picture and testing!
+
+</p>
