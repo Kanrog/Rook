@@ -31,3 +31,6 @@ Fans:&nbsp;</p>
 </ul>
 
 <p>&nbsp;</p>
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F3LNZ6A)
